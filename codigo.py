@@ -1,3 +1,3 @@
 nombre = "Odalis"
 apellido  = "Simone"
-print ("Hola " + nombre + " " + apellido + " Whats up MEN?")
+print ("Hola " + nombre + " " + apellido + " Whats up GIRL?")

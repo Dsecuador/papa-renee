@@ -1,3 +1,3 @@
 este es un texto nuevo
 es una nueva variante
-Esta es la tercera vaiabnte desde el MASTER LOCAL
+Esta es la tercera vaiabnte desde el MASTER LOCAL.
